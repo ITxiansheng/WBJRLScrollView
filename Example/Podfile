@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'WBJRLScrollView_Example' do
+  pod 'WBJRLScrollView', :path => '../'
+
+end

@@ -1,0 +1,14 @@
+PODS:
+  - WBJRLScrollView (0.1.0)
+
+DEPENDENCIES:
+  - WBJRLScrollView (from `../`)
+
+EXTERNAL SOURCES:
+  WBJRLScrollView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WBJRLScrollView: d3263138878e9a3cd3a245508ab7b7946b39e832
+
+COCOAPODS: 0.39.0

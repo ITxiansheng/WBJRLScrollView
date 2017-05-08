@@ -1,0 +1,6 @@
+framework module Pods_WBJRLScrollView_Example {
+  umbrella header "Pods-WBJRLScrollView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

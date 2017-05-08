@@ -1,0 +1,6 @@
+framework module WBJRLScrollView {
+  umbrella header "WBJRLScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}
